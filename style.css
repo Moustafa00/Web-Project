@@ -1,0 +1,54 @@
+div.header{
+    
+    margin-top: -2%;
+    border-radius: 25px;
+    background: linear-gradient(midnightblue, cornflowerblue);
+    width: 100%;
+    height: 40%;
+    
+   
+}
+
+div.bar{
+    margin-top:-40px;
+    margin-left:60%;
+    
+ 
+    
+}
+
+.header nav a{
+    text-decoration:none;
+    color:rgba(229, 238, 219, 0.855);
+    font-size:22px;
+    font-weight:bolder;
+    padding:5%;
+
+  
+
+}
+nav span a:hover{
+    color:darkgrey;
+}
+
+.logo img{ 
+    padding:2px;
+   height: 70px;
+   width:180px;
+  
+}
+body{
+    background-image: url("https://yalantis.com/uploads/ckeditor/pictures/2916/dribble_perfect.gif");
+    background-repeat: no-repeat;
+    
+    background-position: center;
+    background-position-y: 120px;
+    background-color: rgb(19, 17, 17);
+    
+}
+.home img{
+    height: 23px;
+    width:25px;
+    padding-right: 1%; 
+}
+ 
